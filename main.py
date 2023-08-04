@@ -1,1 +1,2 @@
-print(merhaba)
+isim=input(isim yaz)
+print(Hİ,isim)
